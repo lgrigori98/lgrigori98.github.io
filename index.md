@@ -49,7 +49,7 @@
   <ul><li>CIS 110: IT concepts, HTML &amp; CSS</li><li>CIS 111: WebDev w/JavaScipt (ES6)</li><li>CIT 281: Unix Shell; Git &amp; Github; jQuery; AJAX (fetch &amp; promises); Node &amp; Express; ES6 Classes &amp; Super; React; Github Pages </li><li>CIT 381: Relational Databases</li><li>CIT 382: WebDev Frameworks (Meteor &amp; React)</li><li>CIT 383: Networks &amp; CyberSecurity</li></ul>
   <h2>My CIT Projects</h2>
   <ul><li><a href="http://pages.uoregon.edu/lgrigori/110">CIS 110 Projects</a> (uoregon.edu)</li><li><a href="http://pages.uoregon.edu/lgrigori/111/">CIS 111 Projects</a> (uoregon.edu)</li><li>CIT 281 Projects
-          <ul><li>P1 Project Page (Github)</li><li>P2 Project Page (Github)</li><li><a href="https://uo-cit.github.io/project-3-lgrigori98/P3" p3="" project="" page="" <="" a=""> (Github)</a></li><li><a href="https://uo-cit.github.io/project-4-lgrigori98/">P4 Project Page</a> (Github)</li><li>P5 Project Page (Github)</li></ul></li><li>CIT 381 Projects</li><li>CIT 382 Projects</li><li>CIT 383 Projects</li></ul>
+          <ul><li>P1 Project Page (Github)</li><li>P2 Project Page (Github)</li><li><a href="https://uo-cit.github.io/project-3-lgrigori98/"> P3 Project Page </a> (Github)</li><li><a href="https://uo-cit.github.io/project-4-lgrigori98/">P4 Project Page</a> (Github)</li><li>P5 Project Page (Github)</li></ul></li><li>CIT 381 Projects</li><li>CIT 382 Projects</li><li>CIT 383 Projects</li></ul>
   <h2></h2>
   <p></p>
 </section>
